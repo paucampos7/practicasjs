@@ -91,3 +91,4 @@ function añosQueFaltanParaRecibirse(a,b){
 
 añosQueFaltanParaRecibirse(añosQueDuraSuCarrera,añosQueLlevoCursados)
 
+// dentro de las funciones, puedo crear variables. Las mismas sólo funcionan dentro de esa variable.

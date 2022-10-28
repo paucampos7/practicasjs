@@ -8,8 +8,9 @@ section{
 
 button{
     width: 20%;
-    background-color: aqua;
-    padding: 25px;
-    border-radius: 20%;
-    font-size: x-large;
+    margin: 0 auto;
+    border: 0;
+    font-size: 2rem;
+    padding: 15px;
+    border: 2px solid black;
 }
