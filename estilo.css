@@ -1,4 +1,15 @@
+:root{
+    --colorBlanco: white;
+    --colorNegro: black;
+}
+
 body{
+    line-height: 1.5;
+    padding: 30px;
+    background-color: var(--colorBlanco);
+    font-size: 26px;
+
+
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -13,4 +24,9 @@ button{
     font-size: 2rem;
     padding: 15px;
     border: 2px solid black;
+}
+
+.modoOscuro{
+    background-color: var(--colorNegro);
+    color:var(--colorBlanco)
 }
